@@ -1,0 +1,27 @@
+.box-choices {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 100px;
+}
+
+.button-choice {
+  background: none;
+  border: none;
+}
+
+.button-choice:hover {
+  opacity: 0.5;
+  cursor: pointer;
+}
+
+.result {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin-top: 100px;
+}
+
+.winner {
+  width: 100%;
+  text-align: center;
+}
